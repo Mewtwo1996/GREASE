@@ -1,1 +1,6 @@
 Code for Paper "Joint Factual and Counterfactual Explanations for Top-$k$ GNN-based Recommendations"
+
+This repository contains the code to preprocess datasets, train GNN models, and jointly find the factual and counterfactual explanation of gnn-based recommender
+manuscript "Joint Factual and Counterfactual Explanations for Top-$k$ GNN-based Recommendations"
+
+
