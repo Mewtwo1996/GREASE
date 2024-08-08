@@ -5,5 +5,5 @@ manuscript "Joint Factual and Counterfactual Explanations for Top-$k$ GNN-based 
 
 
 pip -r install pip.txt
-
+##Then jointly find the explanations by varying the parameters
 python Joint_Perturb.py --alpha 0.03 --beta 0.01
