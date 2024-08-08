@@ -4,3 +4,6 @@ This repository contains the code to preprocess datasets, train GNN models, and 
 manuscript "Joint Factual and Counterfactual Explanations for Top-$k$ GNN-based Recommendations"
 
 
+pip -r install pip.txt
+
+python Joint_Perturb.py --alpha 0.03 --beta 0.01
